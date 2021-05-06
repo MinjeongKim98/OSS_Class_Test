@@ -5,7 +5,7 @@ int main()
     int b;
     scanf("%d %d", &a, &b);
     printf("합계 : %d", a+b);
-    printf("평균 : %d", (a+b)/2);
+    printf("평 : %d", (a+b)/2);
 
     return 0;
 }
