@@ -1,1 +1,1 @@
-{"issues":[{"file":"loop.c","column":"8","row":"10","severity":" error","message":" buffer overflow, accessing index 10 of global variable 'a' of 10 elements"}]}
+{"issues":[{"file":"loop.c","lineRanges": [{"start": 8, "end": 8}, {"start": 10, "end": 10}],"severity":"ERROR","message":" buffer overflow, accessing index 10 of global variable 'a' of 10 elements"}]}
