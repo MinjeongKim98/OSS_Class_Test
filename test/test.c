@@ -476,6 +476,6 @@ struct FooT
 
 // No extra space before brace initialization
 EmptyStruct emptyStruct = EmptyStruct{}; // otherwise: = EmptyStruct {};
-
+prinf("aa");
 //comment
 EmptyStruct emptyStruct = EmptyStruct{} ; //1 space after ';'' otherwise: ;//1 space after...
