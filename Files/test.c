@@ -58,7 +58,7 @@ namespace EmptyNamespace
 #define EXAMPLE                                                                                    \
                                                                               \
 	{                                                                                              \
-		int x = aaaaa;                                                                             \
+		int x = aaaaa; ;;                                                                            \
 		int b;                                                                                     \
 		int dddddddddd;                                                                            \
 	} while(0)
