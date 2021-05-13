@@ -54,7 +54,6 @@ namespace EmptyNamespace
 
 
 
-#endif
 
 #define EXAMPLE                                                                                    \
                                                                                        \
