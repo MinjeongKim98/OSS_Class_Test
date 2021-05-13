@@ -7,7 +7,7 @@ int main()
     printf("계 : %d", a+b);
     printf("평 : %d", (a+b)/2);
 
-    return 0;
+    return 0;;
 }
 
 

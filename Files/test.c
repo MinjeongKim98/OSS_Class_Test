@@ -52,7 +52,7 @@ namespace EmptyNamespace
 {
 }
 
-#if FOO
+
 #	if BAR
 #		include <foo>
 #	endif
