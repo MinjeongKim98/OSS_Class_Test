@@ -53,8 +53,7 @@ namespace EmptyNamespace
 }
 
 
-#		include <foo>
-#	endif
+
 #endif
 
 #define EXAMPLE                                                                                    \
