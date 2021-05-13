@@ -53,7 +53,6 @@ namespace EmptyNamespace
 }
 
 
-#	if BAR
 #		include <foo>
 #	endif
 #endif
