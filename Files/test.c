@@ -59,7 +59,7 @@ namespace EmptyNamespace
 #endif
 
 #define EXAMPLE                                                                                    \
-	do                                                                                             \
+                                                                                       \
 	{                                                                                              \
 		int x = aaaaa;                                                                             \
 		int b;                                                                                     \
