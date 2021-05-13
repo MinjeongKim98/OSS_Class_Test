@@ -56,7 +56,7 @@ namespace EmptyNamespace
 
 
 #define EXAMPLE                                                                                    \
-         #sda                                                                              \
+                                                                              \
 	{                                                                                              \
 		int x = aaaaa;                                                                             \
 		int b;                                                                                     \
